@@ -6,7 +6,7 @@ This is a production grade template for anyone seeking to write a backend code w
 
 ## Authors
 
-- [@Pratik's Github](https://www.github.com/pratik123-coder)
+- [@Pratik Mohanty](https://www.github.com/pratik123-coder)
 
 
 ## Environment Variables
